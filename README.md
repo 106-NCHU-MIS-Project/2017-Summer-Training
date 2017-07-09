@@ -1,9 +1,13 @@
 # 2017-Summer-Training
 
+|Name|Link|
+|------|------|
+|許達夫 (cabao)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/cabao|
+|Name|Link|
+|Name|Link|
+|Name|Link|
+
 ## 7/3 - 7/9
-|Name|Description|Link|
-|------|--------------------------|--------------------------------------------|
-|||
 
 ## 7/10 - 7/16
 
