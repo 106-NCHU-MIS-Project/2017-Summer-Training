@@ -3,7 +3,7 @@
 |Name|Link|
 |------|------|
 |許達夫 (cabao)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/cabao|
-|Name|Link|
+|吳品融 (jiu)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/jiu|
 |Name|Link|
 |Name|Link|
 
