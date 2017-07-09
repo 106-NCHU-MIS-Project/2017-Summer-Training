@@ -4,7 +4,7 @@
 |------|------|
 |許達夫 (cabao)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/cabao|
 |吳品融 (jiu)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/jiu|
-|郝大為|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/David|
+|郝大為(David)|https://github.com/106-NCHU-MIS-Project/2017-Summer-Training/tree/master/David|
 |Name|Link|
 
 ## 7/3 - 7/9
